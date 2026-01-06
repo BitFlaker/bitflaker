@@ -1,5 +1,5 @@
 ## Hi 👋 I'm David
-![NixOS version](https://img.shields.io/badge/running-25.05-lightblue?logo=nixos&logoColor=white)
+![NixOS version](https://img.shields.io/badge/running-25.11-lightblue?logo=nixos&logoColor=white)
 [![Twitter](https://img.shields.io/badge/bitflaker-blue?logo=x&logoColor=white)](https://twitter.com/BitFlaker)
 
 I'm a full stack software engineer with a couple of free time passion projects. \
