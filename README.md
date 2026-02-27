@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm David
-[![Twitter](https://img.shields.io/badge/bitflaker-blue?logo=x&logoColor=white)](https://twitter.com/BitFlaker)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/BitFlaker)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@bitflaker)
 ![](https://komarev.com/ghpvc/?username=bitflaker)
 
 I'm a full stack software engineer dreaming of a portable cross platform future. 
