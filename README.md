@@ -39,12 +39,26 @@ Convinced that everything is possible with enough 🕓 time.
   <table>
     <tr>
       <td width="512px" align="center">
+        <br />
+        <picture>
+          <source srcset="images/icon_noctig_scorer.png" media="(prefers-color-scheme: dark)">
+          <source srcset="images/icon_dark_noctig_scorer.png" media="(prefers-color-scheme: light)">
+          <img alt="NoctiGScorer-Icon" align="center" src="images/icon_noctig_scorer.png" height="80px" />
+        </picture>
+        <br />
         <h3>NoctiG Scorer</h3>
         Cross platform tool for manual EEG based sleep scoring written in Rust
+        <br />
+        <br />
       </td>
       <td width="512px" align="center">
+        <br />
+        <img alt="LucidSourceKit-Icon" align="center" src="images/icon_lucidsourcekit.png" height="80px" />
+        <br />
         <h3>LucidSourceKit</h3>
         Supposed to be an all-you-need toolkit for lucid dreaming
+        <br />
+        <br />
       </td>
       <td width="512px" align="center">
         <h3>Rust EDF</h3>
